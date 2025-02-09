@@ -1,0 +1,46 @@
+h1{
+    border: 4px solid red;
+    border-radius: 20px;
+    background-color: rgb(112, 185, 248);
+    text-align: center;
+}
+i{
+    color: red;
+}
+h2{
+    background-color: yellow;
+}
+button{
+    width: 300px;
+    height: 40px;
+    background-color: rgb(94, 94, 253);
+    color: white;
+}
+ .a2,.a4,.a6{
+    text-align: center;
+    width: 1000px;
+    color: aliceblue;
+}
+.as1{
+    width: 1200px;
+    height: 40px;
+}
+.a3,.a5{
+    color: white;
+    background-color: red;
+    text-align: center;
+}
+table{
+    border: 3px solid white;
+}
+.a1{
+    background-color: green;
+    color: aliceblue;
+}
+.a4,.a6{
+    background-color: black;
+    color: aliceblue;
+}
+.a2{
+    background-color: blue;
+}
